@@ -1,16 +1,11 @@
-### Hi there 👋
+### Hey, I'm neoney!
+**My links:**  
+[Website](https://neoney.me)  
+[Twitter](https://twitter.com/neoney_)  
+[Discord](https://discord.gg/ZPYfVTR)  
+[Instagram](https://instagram.com/n3oney)  
+[YouTube](https://www.youtube.com/channel/UC8UNjFhKVJ_CjTAH1JWGRsw)  
+[Twitch](https://twitch.tv/n3oney)
 
-<!--
-**n3oney/n3oney** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Pronouns: he/him
+Fun fact: I've been coding since I was 11 and have started with C++
