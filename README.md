@@ -1,6 +1,10 @@
 <h1 align="center">neoney</h1>
 <p align="center">a web developer</p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=n3oney&color=f5bde6">
+ </p>
+
 [read more about me](https://me.neoney.dev)  
 
 [check out my website](https://neoney.dev)  
